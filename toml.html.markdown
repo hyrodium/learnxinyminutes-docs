@@ -231,7 +231,7 @@ The equivalent in JSON would be:
   "products": [
     {
       "name": "array of table",
-      "sku": 7385594937,
+      "sku": 738594937,
       "emptyTableAreAllowed": true
     },
     {},
@@ -274,8 +274,7 @@ The equivalent in JSON would be:
 
 The equivalent in JSON would be:
 
-```
-
+```json
 {
   "fruit": [
     {
